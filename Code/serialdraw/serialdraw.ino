@@ -22,7 +22,7 @@ void setup() {
   Serial.begin(9600);
   servo1.attach(2,750,2200);
   servo2.attach(3,750,2200);
-  servo3.attach(4,500,2400);
+  servo3.attach(4,750,2200);
   servo1.write(90);
   servo2.write(80);
   servo3.write(idleposition);
