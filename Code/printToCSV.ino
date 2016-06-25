@@ -1,4 +1,5 @@
-// for use with processing interface!!!
+// for use with processing interface!!! as well as with plotFace.py. To use, copy and paste the commandline output from processing into a file called "lines.txt"
+
 // code derived from http://www.instructables.com/id/Robotic-Arm-with-Servo-Motors/?ALLSTEPS
 // code derived from http://www.instructables.com/id/Intro-and-what-youll-need/?ALLSTEPS
 // derived from http://arduino.cc/en/Tutorial/Graph
